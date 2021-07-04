@@ -1,0 +1,13 @@
+C:\Users\ion8\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Release\AgregatkaUSBuart.exe.config
+C:\Users\ion8\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Release\AgregatkaUSBuart.exe.manifest
+C:\Users\ion8\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Release\AgregatkaUSBuart.application
+C:\Users\ion8\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Release\AgregatkaUSBuart.exe
+C:\Users\ion8\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Release\AgregatkaUSBuart.pdb
+C:\Users\ion8\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Release\WindowsFormsApp7.Form1.resources
+C:\Users\ion8\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Release\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\ion8\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Release\AgregatkaMeter.csproj.GenerateResource.cache
+C:\Users\ion8\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Release\AgregatkaMeter.csproj.CoreCompileInputs.cache
+C:\Users\ion8\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Release\AgregatkaUSBuart.exe.manifest
+C:\Users\ion8\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Release\AgregatkaUSBuart.application
+C:\Users\ion8\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Release\AgregatkaUSBuart.exe
+C:\Users\ion8\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Release\AgregatkaUSBuart.pdb
